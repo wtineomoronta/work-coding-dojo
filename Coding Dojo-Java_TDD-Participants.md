@@ -1,4 +1,4 @@
-# List of participants in the "Coding Dojo (Java and TDD) " and levels
+# List of participants in the "Coding Dojo (Java and TDD)" and levels
 
 ### Beginner
 - Julio Rodriguez
@@ -8,13 +8,16 @@
 ### Intermediate
 - Victor de Cruz
 - Cleiry Moreno
+- Willian Diaz
 
 ### Advanced
 - Randy Andujar
 - Enrique Sime
 
-### Participants of the First level (Begginer)
-- Julio Rodriguez
-- Cesar Rivas
-- Hector Sena
-- Cleiry Moreno
+### ------------------------------------------
+### Participants of the first level (Beginner): starting wednesday 17, 2019
+- Julio Rodriguez (beginner)
+- Cesar Rivas (beginner)
+- Hector Sena (beginner)
+- Cleiry Moreno (intermediate)
+- Willian Diaz (intermediate)
