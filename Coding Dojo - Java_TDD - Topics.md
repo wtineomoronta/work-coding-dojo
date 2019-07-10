@@ -12,11 +12,13 @@
 - Advanced class design
 - Design Patterns and Principles
 - Generics and Collections
-- Functional Programming
+- Functional Programming (Lambda)
 - Exceptions and Assertions
 - Concurrency and Parallel Programming
 
 ## Advanced
+- Java Annotations and Reflection
+  https://en.wikipedia.org/wiki/Java_annotation
 
 # Books
 ### SCJP Sun® Certified Programmer for JavaTM 6 Study Guide (Exam 310-065)
