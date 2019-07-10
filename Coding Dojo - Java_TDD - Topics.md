@@ -1,4 +1,17 @@
 # Topic to learn in the coding dojo for Java with TDD
+## Coding Dojo Java (take as example)
+  https://github.com/JohnJBarrett22/Coding-Dojo-Java
+  https://github.com/ngm01/java
+  https://github.com/isuntag/Java
+  https://github.com/schintatkun/Java/tree/master/Fundamentals
+  https://github.com/yhaider/java_assignments
+  https://github.com/dusty-g/Java
+  https://github.com/k80oshea/dojo_projects
+  - Students Dojo in Java
+    https://bolcom.github.io/student-dojo/#three-laws-of-tdd
+  - KataCatalogue
+    http://codingdojo.org/KataCatalogue/
+    
 ## Basic (SE 8 Programmer I)
 - Java basics ()
   -- 1.1 - 1.10
