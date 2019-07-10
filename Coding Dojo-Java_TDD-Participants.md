@@ -6,7 +6,7 @@
 - Hector Sena
 
 ### Intermediate
-- Victor de Cruz
+- Victor de la Cruz
 - Cleiry Moreno
 - Willian Diaz
 
@@ -14,8 +14,8 @@
 - Randy Andujar
 - Enrique Sime
 
-### ------------------------------------------
-### Participants of the first level (Beginner): starting wednesday 17, 2019
+# Participants of the first level (Beginner)
+### Wednesday 17, 2019
 - Julio Rodriguez (beginner)
 - Cesar Rivas (beginner)
 - Hector Sena (beginner)
