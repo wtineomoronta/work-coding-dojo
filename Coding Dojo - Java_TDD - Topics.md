@@ -18,7 +18,11 @@
 
 ## Advanced
 - Java Annotations and Reflection
-  https://en.wikipedia.org/wiki/Java_annotation
+https://en.wikipedia.org/wiki/Java_annotation
+http://tutorials.jenkov.com/java-reflection/annotations.html
+https://www.vogella.com/tutorials/JavaAnnotations/article.html
+https://medium.com/@jintin/annotation-processing-in-java-3621cb05343a (xxx)
+https://keyholesoftware.com/2014/09/15/java-annotations-using-reflection/
 
 # Books
 ### SCJP Sun® Certified Programmer for JavaTM 6 Study Guide (Exam 310-065)
