@@ -21,3 +21,7 @@
 - Hector Sena (beginner)
 - Cleiry Moreno (intermediate)
 - Willian Diaz (intermediate)
+
+### Wednesday 24, 2019
+
+### Wednesday 31, 2019
