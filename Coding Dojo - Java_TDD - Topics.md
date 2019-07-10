@@ -23,7 +23,10 @@ http://tutorials.jenkov.com/java-reflection/annotations.html
 https://www.vogella.com/tutorials/JavaAnnotations/article.html
 https://medium.com/@jintin/annotation-processing-in-java-3621cb05343a (xxx)
 https://keyholesoftware.com/2014/09/15/java-annotations-using-reflection/
-
+- Java 8 Stream
+- Java 8 Optional
+  https://www.baeldung.com/java-optional
+  
 # Books
 ### SCJP Sun® Certified Programmer for JavaTM 6 Study Guide (Exam 310-065)
 1 Declarations and Access Control . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
