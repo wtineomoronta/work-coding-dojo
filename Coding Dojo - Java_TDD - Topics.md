@@ -38,6 +38,7 @@ https://www.vogella.com/tutorials/JavaAnnotations/article.html
 https://medium.com/@jintin/annotation-processing-in-java-3621cb05343a (xxx)
 https://keyholesoftware.com/2014/09/15/java-annotations-using-reflection/
 - Java 8 Stream
+  https://www.azul.com/exceptional-exception-handling-jdk-8-streams/
 - Java 8 Optional
   https://www.baeldung.com/java-optional
   
