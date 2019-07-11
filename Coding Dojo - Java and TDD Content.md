@@ -15,11 +15,11 @@
      1. [Features and components of java](#)
     
 1. [Working with Java data types](#)
-     1. Primitive variables
-     1. Identifiers
-     1. Object reference variables
-     1. Operators
-     1. Wrapper classes
+     1. [Primitive variables](#)
+     1. [Identifiers](#)
+     1. [Object reference variables](#)
+     1. [Operators](#)
+     1. [Wrapper classes](#)
      
 1. [Methods and encapsulation](#)
      1. [Scope of variables](#)
@@ -30,16 +30,173 @@
      1. [Accessing object fields](#)
      1. [Apply encapsulation principles to a class](#)
      1. [Passing objects and primitives to methods](#)
-     
+
+1. [Arrays and ArrayList](#)
+1. [Comparing objects for equality](#)
+
 1. [Flow control](#)
      1. [The **if, if-else, and ternary** constructs](#)
      1. [The **switch** statement](#)
      1. [The **for** loop](#)
+     1. [The **enhanced for** loop](#)
+     1. [The **while** and **do-while** loops](#)
+     1. [Comparing loop constructs](#)
+          1. Comparing **do-while** and **while** loops
+          1. Comparing **for** and **enhanced for** loops
+          1. Comparing **for** and **while** loops
+     1. [Loop statements: **break** and **continue**](#)
+          1. The break statement
+          1. The continue statement
+          1. Labeled statements
      
-     
+1. [Working with inheritance](#)
+     1. [Inheritance with classes](#)
+          1. Which base class members are inherited by a derived class?
+          1. Which base class members aren’t inherited by a derived class?
+          1. Derived classes can define additional properties and behaviors
+          1. Abstract base class versus concrete base class
+          
+     1. [Using interfaces](#)
+          1. [Need for using interfaces](#)
+          1. [Types of methods in an interface](#)
+          1. [Implementing a single interface](#)
+          1. [Extending interfaces](#)
+          1. [A class can’t extend multiple classes](#)
+          1. [A class can implement multiple interfaces](#)
+          1. [Modifying existing methods of an interface](#)
+          1. [Properties of members of an interface](#)
 
+     1. [Reference variable and object types](#)
+          1. [Using a variable of the derived class to access its own object](#)
+          1. [Using a variable of a superclass to access an object of a derived class](#)
+          1. [Using a variable of an implemented interface to access a derived class object](#)
+          1. [The need for accessing an object using the variables of its base class or implemented interfaces](#)
+     
+     1. [Casting](#)
+          1. [How to cast a variable to another type](#)
+          1. [Need for casting](#)
+     
+     1. [Using **this** and **super** to access objects and constructors](#)
+          1. [Object reference: **this**](#)
+          1. [Object reference: **super**](#)
+     
+     1. [Polymorphism](#)
+          1. [](#)
+          1. [](#)
+          1. [](#)
+          1. [](#)
+          1. [](#)
+     
+1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
 ### Intermediate
+1. [Java Collections API](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [Anonymous classes](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [Functional programming in Java](#)
+     1. [Lambda expressions](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [Java Stream](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
 
-
+1. [Java Annotations and Reflection](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [Java Option class](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
 ### Advanced
-
+1. [Concurrency and Parallelism in Java](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [Loggin](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [Unit testing in Java](#)
+     1. [JUnit 5](#)
+     1. [Mockito](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     
+1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
+     1. [](#)
