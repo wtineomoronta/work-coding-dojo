@@ -12,6 +12,7 @@
      
 # Java
 ### Basic
+---
 1. [Java basics](#)
      1. [The structures of a Java class and a source code file](#)
           1. Structure of a Java class
@@ -136,8 +137,10 @@
           1. [The ***assert*** statement](#)
           1. [Enabling assertions](#)
           1. [Using assertions](#) 
-     
+
+---
 ### Intermediate
+---
 1. [Advanced Class Design](#)
      1. [Overloading and Overriding methods](#)
      1. [Abstract Classes](#)
@@ -252,30 +255,11 @@
           1. [Collecting Results](#)
      
 1. [Java Annotations and Reflection](#) 
-          
+
+---
 ### Advanced
-1. [Concurrency and Parallelism in Java](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
-     
-1. [Logging](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
-     
+---
+1. [Concurrency and Parallelism in Java](#) 
+1. [Logging](#)     
 1. [Testing - Advanced](#)
-     1. [TDD - advanced]
-     1. [JUnit 5](#)
-     1. [Mockito](#)
-     
 1. [Spring Framework 5](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
-     1. [](#)
