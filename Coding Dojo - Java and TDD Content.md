@@ -32,9 +32,9 @@
      1. [Passing objects and primitives to methods](#)
      
 1. [Flow control](#)
-     1. [The *if, if-else, and ternary* constructs](#)
-     1. [The *switch* statement](#)
-     1. [The *for* loop](#)
+     1. [The **if, if-else, and ternary** constructs](#)
+     1. [The **switch** statement](#)
+     1. [The **for** loop](#)
      
      
 
