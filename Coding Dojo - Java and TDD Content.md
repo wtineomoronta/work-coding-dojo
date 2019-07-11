@@ -173,7 +173,7 @@
           1. [Using the Builder Pattern](#)
           1. [Using objects with the Factory Pattern](#)
 
-1. [Java Generic Classes, Methods, and Interfaces](#)
+1. [Java Generics Classes, Methods, and Interfaces](#)
      1. [Why do we need Generics](#)
      1. [Generic Collections](#)
      1. [Working with generics](#)
@@ -261,7 +261,7 @@
      1. [](#)
      1. [](#)
      
-1. [Loggin](#)
+1. [Logging](#)
      1. [](#)
      1. [](#)
      1. [](#)
