@@ -2,13 +2,13 @@
 
 # TDD - Basic (work parallel with the Java Coding Dojo)
 ### Test-drive development (TDD)
-1. [How to work with TDD during the Java Coding Dojo](#)
 1. [Introduction to TDD](#)
      1. [TDD Benefits](#)
      1. [Fundamental concepts](#)
      1. [Foundation of TDD](#)
 1. [Working cycle of TDD](#)
 1. [JUnit5 Introduction](#)
+1. [How to work with TDD during the Java Coding Dojo](#)
      
 # Java
 ### Basic
