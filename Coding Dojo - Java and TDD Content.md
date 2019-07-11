@@ -3,10 +3,9 @@
 # Java
 ### Basic
 [1. Java basics](#)
-> [1.1 The structures of a Java class and a source code file](#)
-     
-     * Structure of a Java class
-     * Structure and components of a Java source code file
+> [1.1 The structures of a Java class and a source code file](#)</br>
+     * Structure of a Java class </br>
+     * Structure and components of a Java source code file </br>
      
 2. xxx
 > 2.1 yyy
