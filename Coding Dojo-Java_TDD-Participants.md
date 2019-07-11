@@ -9,6 +9,7 @@
 - Victor de la Cruz
 - Cleiry Moreno
 - Willian Diaz
+- Rafael Estrella
 
 ### Advanced
 - Randy Andujar
@@ -21,6 +22,7 @@
 - Hector Sena (beginner)
 - Cleiry Moreno (intermediate)
 - Willian Diaz (intermediate)
+- Rafael Estrella (intermediate)
 
 ### Wednesday 24, 2019
 
