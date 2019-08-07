@@ -27,3 +27,8 @@
 ### Wednesday 24, 2019
 
 ### Wednesday 31, 2019
+
+
+https://github.com/Rafael-Estrella
+https://github.com/isarod
+https://github.com/cesargrivasm
